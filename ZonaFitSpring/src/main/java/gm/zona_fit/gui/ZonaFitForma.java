@@ -27,7 +27,7 @@ public class ZonaFitForma extends JFrame{
     private DefaultTableModel tablaModeloClientes;
     private Integer idCliente; // Creamos el valor de id para poder trabajar con él.
 
-    // En este caso utilizamos @Autowired quí, ya que necesitamos que la dependencia se inyecte desde el
+    // En este caso utilizamos @Autowired aquí, ya que necesitamos que la dependencia se inyecte desde el
     // momento de la creación de la ventana.
     @Autowired
     public ZonaFitForma(ClienteServicio clienteServicio){
