@@ -1,3 +1,5 @@
+## Welcome to Zona Fit, a Swing app! 🚀
+
 This app is a desktop app iteration of my previous vanilla app, Zona Fit.
 
 Both apps were created following Ubaldo Acosta's lead during his "Universidad Java" masterclass.
